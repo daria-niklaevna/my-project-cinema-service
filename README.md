@@ -2,6 +2,7 @@
 
 Django API for creating tickets and managing movies in cinema service.
 
+
 ## Installation
 
 Python3 must be already installed.
