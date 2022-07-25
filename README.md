@@ -2,12 +2,6 @@
 
 Django API for creating tickets and managing movies in cinema service.
 
-# Check it out!
-
-[Cinema service project deployed to heroku]()
-
-Use email: user@test.com , password: user12345 to get familiar the project.
-
 ## Installation
 
 Python3 must be already installed.
