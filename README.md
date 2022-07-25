@@ -22,4 +22,12 @@ python manage.py runserver # starts Django Server
 * Familiarization with movies and sessions, as well as ordering tickets from API
 * Powerful admin panel for advanced managing
 
+## Demo
 
+Cinema Service API
+
+![Cinema Servace API](venv/api_cinema.png)
+
+Movie List API
+
+![Movie List API](venv/movie_list.png)
